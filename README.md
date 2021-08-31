@@ -1,6 +1,6 @@
 ![I'm a web designer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/s960x960/229647103_115354524174079_827980486192850247_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=fQqy3Hw4dLsAX9m_mBo&_nc_ht=scontent.fcgp17-1.fna&oh=6590f1cacda4c36a6f7b5b1db2c0048f&oe=6154980B)
 
-### Hi there 👋, Hello I'm Muzammleul haq
+### Hi there 👋, I'm Muzammleul haq
 #### I'm a web designer
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
